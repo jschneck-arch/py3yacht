@@ -8,7 +8,7 @@ time.sleep(2)
 print("Your adventure begins now!")
 
 # Character creation
-name = input(whats your name, traverser of the smooth?)
+name = input("whats your name, traverser of the smooth?")
 print("welcome aboard the seas of smooth,", name, "!")
 time.sleep(1)
 
